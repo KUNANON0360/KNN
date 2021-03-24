@@ -1,0 +1,16 @@
+body{
+   background-color: rgb(0, 64, 94);
+   font-family: initial;
+   font-size: 30px;
+   color: rgb(255, 255, 255); 
+   text-align: center;
+}
+#myform{
+    background-color: rgba(0, 0, 0, 0.671);
+}
+#topic{
+    font-size: 30px;
+}
+h1{
+    font-size: 30px;
+}

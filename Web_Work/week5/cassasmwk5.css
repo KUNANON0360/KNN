@@ -1,0 +1,35 @@
+h1{
+    color: #0a2f35;
+    text-align: center;
+}
+h2{
+    margin-left: 85%;
+    color: #12492f;
+    font-family: kanit,'Courier New', Courier, monospace;
+}
+
+/*BG*/
+body{
+    background-color: #76ff71 ;
+}
+
+/*margin*/
+.textbox{
+    text-align: center;
+}
+.button1{
+    text-align: center;
+}
+
+@media only screen and (max-width: 767px){
+    .class1{
+        border: 2px solid #f56038;
+        width: 300 px;
+    }
+}
+#Chat
+{
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+}
